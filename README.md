@@ -1,11 +1,11 @@
 # Machine-Learning
 
-  * Advertisement Sale Prediction using Logistic Regression : https://github.com/surendar-23/Machine-Learning/tree/main/Advertisement%20Sale%20Prediction%20using%20Logistic%20Regression
+  * Advertisement Sale Prediction using Logistic Regression : https://bit.ly/adsaleprediction
   
-  * Character Recognition using Support Vector Machine (SVM) : https://github.com/surendar-23/Machine-Learning/tree/main/Character%20Recognition%20using%20Support%20Vector%20Machine%20(SVM)
+  * Character Recognition using Support Vector Machine (SVM) : http://bit.ly/40FSYTU
   
-  * Leaf Detection using DECISION TREE : https://github.com/surendar-23/Machine-Learning/tree/main/Leaf%20Detection%20using%20DECISION%20TREE
+  * Leaf Detection using DECISION TREE : https://bit.ly/leafdetection
   
-  * Salary Estimation using K-Nearest Neighbors : https://github.com/surendar-23/Machine-Learning/tree/main/Salary%20Estimation%20using%20K-Nearest%20Neighbors
+  * Salary Estimation using K-Nearest Neighbors : https://bit.ly/salaryestimation
   
-  * Titanic Survival Prediction using NAIVE BAYES : https://github.com/surendar-23/Machine-Learning/tree/main/Titanic%20Survival%20Prediction%20using%20NAIVE%20BAYES
+  * Titanic Survival Prediction using NAIVE BAYES : https://bit.ly/titanicsurvival
